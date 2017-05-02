@@ -9,11 +9,7 @@ The framework is the product of Team A of the Virtual World Design course ([*MSC
 
 Currently, this is the starter HelloWorld project that you can use to build your own SpatialOS application.
 
-Included are a couple of automated console command scripts:
-* `Codegen.sh` – for compiling Spatial Schema "component" codes for Unity scripts to reference
-* `Local Start.sh` – for starting the game locally (do this before playing the game in Unity)
-
-For other command-running purposes, commands must be run through a GIT Bash shell in a local copy of the project root.
+Commands must be run through a GIT Bash shell in a local copy of the project root.
 
 
 # Tool Documentations
